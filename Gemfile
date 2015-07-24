@@ -29,8 +29,12 @@ end
 
 # custom gems
 
+# assets
+gem 'bootstrap-sass', '~> 3.3.5'
+gem 'font-awesome-sass',' 4.3.2.1'
+
 gem 'devise', '3.4.1'
 gem 'annotate', '2.6.8'
-gem 'font-awesome-sass',' 4.3.2.1'
+
 
 
